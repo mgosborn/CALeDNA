@@ -1,2 +1,3 @@
 # CALeDNA
 Analysis for CALeDNA project
+DOI: 10.1101/2020.06.19.160374
